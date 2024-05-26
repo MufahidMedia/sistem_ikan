@@ -7,12 +7,14 @@ prakarsadesadigital | paberasan | sistemwebsitedesa
 
 ====---//INSTALASI SOURCE CODE\\---====
 
--Ekstrak source code-nya
--Copy ke localhost / host
--jika pakai xampp copy ke folder htdocs
--buat database baru di phpmyadmin
--import file sql ke database baru tadi
--url admin tambahkan "c_login" pada url
+- Ekstrak source code-nya
+- Copy ke localhost / host
+- jika pakai xampp copy ke folder htdocs
+- buat database baru di phpmyadmin
+- import file sql ke database baru tadi
+- url admin tambahkan "c_login" pada url
+- Jika local xampp menggunakan versi 7.3
+- jika di hosting php versi 7.3
 
 
 =====-----/////FAQ ERROR\\\\\-----=====
